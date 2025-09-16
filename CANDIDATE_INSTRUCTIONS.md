@@ -42,7 +42,6 @@ page: `src/pages/AssistantsPage.tsx`
 - Accept props: `children`, `onClick`, `variant` (primary/secondary)
 - Use TypeScript
 - Style with Tailwind CSS classes
-- Add hover and focus states
 
 2. **Create a Modal Component**
 
@@ -57,9 +56,9 @@ page: `src/pages/AssistantsPage.tsx`
 
 ### Overview
 
-Design and partially implement an AI assistants page. Focus on architecture and component design using pseudocode and comments. https://excalidraw.com/
+Design and partially implement an AI assistants page. Focus on architecture and component design using pseudocode and comments.
 
-Design an AI assistants directory page with the following features:
+Design Architecture for an AI assistants directory page with the following features:
 
 - Search for assistants
 - Grid display of assistants overview
@@ -98,10 +97,9 @@ fetchAssistants(params?: AssistantsParams): Promise<AssistantSummary[]>
 fetchAssistantDetail(id: string): Promise<AssistantDetail>
 ```
 
-#### TypeScript Types
+TypeScript Types
 
 ```typescript
-// Already defined in src/types/assistants.ts
 type AssistantCategory =
   | "general"
   | "coding"
