@@ -4,8 +4,8 @@
 
 Welcome! This interview consists of two parts:
 
-1. **Task 1 (15 minutes)**: Button component and modal implementation
-2. **Task 2 (15 minutes)**: Full AI assistants directory
+1. **Task 1 (30 minutes)**: Button component and modal implementation
+2. **Task 2 (30 minutes)**: Full AI assistants directory
 
 We'll assess your React/TypeScript skills progressively, starting with fundamental UI components.
 
