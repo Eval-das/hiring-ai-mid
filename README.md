@@ -51,3 +51,4 @@ This is a React TypeScript project set up with:
 - Error handling and UX
 - Communication skills
 # hiring-ai-mid
+# hiring-ai-mid
