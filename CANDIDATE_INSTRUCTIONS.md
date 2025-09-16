@@ -34,7 +34,7 @@ The project uses:
 
 Build a button that opens a modal on click:
 
-{age: `src/pages/AssistantsPage.tsx`
+page: `src/pages/AssistantsPage.tsx`
 
 1. **Create a Button Component**
 
