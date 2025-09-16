@@ -1,0 +1,126 @@
+{
+  "assistants": [
+    {
+      "id": "gptx",
+      "name": "GPT-X",
+      "category": "general",
+      "shortDescription": "Versatile chat assistant for everyday tasks"
+    },
+    {
+      "id": "devbuddy",
+      "name": "DevBuddy",
+      "category": "coding",
+      "shortDescription": "AI-powered code reviews and snippet generation"
+    },
+    {
+      "id": "uxsage",
+      "name": "UX Sage",
+      "category": "design",
+      "shortDescription": "UX heuristics evaluation and design audits"
+    },
+    {
+      "id": "rescope",
+      "name": "ReScope",
+      "category": "research",
+      "shortDescription": "Research summaries with accurate citations"
+    },
+    {
+      "id": "focusfox",
+      "name": "FocusFox",
+      "category": "productivity",
+      "shortDescription": "Task management and focus cycle optimization"
+    },
+    {
+      "id": "codewhiz",
+      "name": "CodeWhiz",
+      "category": "coding",
+      "shortDescription": "Advanced debugging and code optimization"
+    },
+    {
+      "id": "pixelpro",
+      "name": "PixelPro",
+      "category": "design",
+      "shortDescription": "Design system creation and component libraries"
+    },
+    {
+      "id": "datadruid",
+      "name": "DataDruid",
+      "category": "research",
+      "shortDescription": "Data analysis and visualization expert"
+    }
+  ],
+  "details": {
+    "gptx": {
+      "id": "gptx",
+      "name": "GPT-X",
+      "category": "general",
+      "shortDescription": "Versatile chat assistant for everyday tasks",
+      "capabilities": ["Chat", "Summarize", "Translate", "Creative Writing"],
+      "longDescription": "A general-purpose AI assistant designed to help with a wide variety of everyday tasks. From answering questions to creative writing, GPT-X adapts to your needs with advanced language understanding.",
+      "website": "https://example.com/gptx"
+    },
+    "devbuddy": {
+      "id": "devbuddy",
+      "name": "DevBuddy",
+      "category": "coding",
+      "shortDescription": "AI-powered code reviews and snippet generation",
+      "capabilities": ["Code Review", "Snippet Generation", "Refactoring", "Documentation"],
+      "longDescription": "Your AI pair programmer that helps with code reviews, generates snippets, suggests refactoring improvements, and writes documentation. Supports 50+ programming languages.",
+      "website": "https://example.com/devbuddy"
+    },
+    "uxsage": {
+      "id": "uxsage",
+      "name": "UX Sage",
+      "category": "design",
+      "shortDescription": "UX heuristics evaluation and design audits",
+      "capabilities": ["Heuristic Evaluation", "Accessibility Audit", "User Flow Analysis", "Design Critique"],
+      "longDescription": "Expert UX evaluation assistant that performs heuristic evaluations, accessibility audits, and provides actionable design feedback based on industry best practices.",
+      "website": "https://example.com/uxsage"
+    },
+    "rescope": {
+      "id": "rescope",
+      "name": "ReScope",
+      "category": "research",
+      "shortDescription": "Research summaries with accurate citations",
+      "capabilities": ["Literature Review", "Citation Management", "Summarization", "Fact Checking"],
+      "longDescription": "Academic research assistant that helps with literature reviews, manages citations, and creates comprehensive summaries while maintaining scholarly accuracy.",
+      "website": "https://example.com/rescope"
+    },
+    "focusfox": {
+      "id": "focusfox",
+      "name": "FocusFox",
+      "category": "productivity",
+      "shortDescription": "Task management and focus cycle optimization",
+      "capabilities": ["Task Prioritization", "Pomodoro Timer", "Time Blocking", "Progress Analytics"],
+      "longDescription": "Productivity assistant that helps manage tasks, optimizes focus cycles using proven techniques like Pomodoro, and provides insights into your work patterns.",
+      "website": "https://example.com/focusfox"
+    },
+    "codewhiz": {
+      "id": "codewhiz",
+      "name": "CodeWhiz",
+      "category": "coding",
+      "shortDescription": "Advanced debugging and code optimization",
+      "capabilities": ["Debug Analysis", "Performance Profiling", "Security Scanning", "Code Optimization"],
+      "longDescription": "Advanced coding assistant specializing in debugging complex issues, performance optimization, and security vulnerability detection across multiple platforms.",
+      "website": "https://example.com/codewhiz"
+    },
+    "pixelpro": {
+      "id": "pixelpro",
+      "name": "PixelPro",
+      "category": "design",
+      "shortDescription": "Design system creation and component libraries",
+      "capabilities": ["Design Tokens", "Component Architecture", "Style Guide Generation", "Figma Integration"],
+      "longDescription": "Design system expert that helps create scalable component libraries, manages design tokens, and ensures consistency across digital products.",
+      "website": "https://example.com/pixelpro"
+    },
+    "datadruid": {
+      "id": "datadruid",
+      "name": "DataDruid",
+      "category": "research",
+      "shortDescription": "Data analysis and visualization expert",
+      "capabilities": ["Statistical Analysis", "Data Visualization", "Predictive Modeling", "Report Generation"],
+      "longDescription": "Data science assistant that performs statistical analysis, creates compelling visualizations, builds predictive models, and generates comprehensive reports.",
+      "website": "https://example.com/datadruid"
+    }
+  }
+}
