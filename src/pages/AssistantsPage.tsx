@@ -9,9 +9,7 @@ export function AssistantsPage() {
         <h1 className="text-3xl font-bold text-indigo-500">AI Assistants</h1>
       </header>
 
-      <div>
-        <button>test</button>
-      </div>
+      <div></div>
     </div>
   );
 }
