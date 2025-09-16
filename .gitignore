@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 
 INTERVIEWER_GUIDE.md
+
+.claude
+CLAUDE.md
